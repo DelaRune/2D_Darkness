@@ -1,0 +1,632 @@
+fileFormatVersion: 2
+guid: 5655d60e71ab93c40bd932a8fc722daf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6244237396501938031
+    second: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_0
+  - first:
+      213: 3945976078724026400
+    second: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_1
+  - first:
+      213: 7114675351971593504
+    second: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_2
+  - first:
+      213: -4305401181665419178
+    second: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_3
+  - first:
+      213: -2675590279656713057
+    second: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_4
+  - first:
+      213: -60065993162823067
+    second: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_5
+  - first:
+      213: -2622424446761798640
+    second: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_6
+  - first:
+      213: 673031519881400841
+    second: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_7
+  - first:
+      213: 2697195445914709625
+    second: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_8
+  - first:
+      213: -4663734552302673767
+    second: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_9
+  - first:
+      213: 4317414897814058035
+    second: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_10
+  - first:
+      213: 2541517649655105853
+    second: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_11
+  - first:
+      213: -6432050432244105119
+    second: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_12
+  - first:
+      213: -8043119039630715674
+    second: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_13
+  - first:
+      213: -9150196627206403249
+    second: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_14
+  - first:
+      213: -5367215020992884050
+    second: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_15
+  - first:
+      213: -5879381001621942185
+    second: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_16
+  - first:
+      213: -8664554306198917322
+    second: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_17
+  - first:
+      213: 1365851508116290080
+    second: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_18
+  - first:
+      213: 7098179810461375839
+    second: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_19
+  - first:
+      213: 6911632451269888293
+    second: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_20
+  - first:
+      213: 5834745538287950763
+    second: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_21
+  - first:
+      213: -5024517302297289319
+    second: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_22
+  - first:
+      213: 2048636011715954027
+    second: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_23
+  - first:
+      213: 1451382652381768952
+    second: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_24
+  - first:
+      213: 1542027228118499536
+    second: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_25
+  - first:
+      213: 4632222211568202000
+    second: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_26
+  - first:
+      213: -4186157139280114708
+    second: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_27
+  - first:
+      213: 535201916461190938
+    second: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_28
+  - first:
+      213: -8488737184398192046
+    second: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_29
+  - first:
+      213: -1920607750172147746
+    second: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_30
+  - first:
+      213: -6940894004740452063
+    second: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_31
+  - first:
+      213: 7606331863193319160
+    second: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_32
+  - first:
+      213: -4264815200863044529
+    second: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_33
+  - first:
+      213: 7659178530282464670
+    second: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_34
+  - first:
+      213: 782940290289282868
+    second: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_35
+  - first:
+      213: -3089743953194506493
+    second: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_36
+  - first:
+      213: 1588599864197084571
+    second: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_37
+  - first:
+      213: -5767778803949284088
+    second: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_38
+  - first:
+      213: 7826540580029258303
+    second: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_39
+  - first:
+      213: 1720396069183063943
+    second: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_40
+  - first:
+      213: 2461053682174071004
+    second: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_41
+  - first:
+      213: 2222804684517048260
+    second: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_42
+  - first:
+      213: -2046739635643582968
+    second: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_43
+  - first:
+      213: 6809266281568065271
+    second: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_44
+  - first:
+      213: -2856099598879816291
+    second: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_45
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1536
+        width: 78
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020d880465ce2c630800000000000000
+      internalID: 3945976078724026400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_3
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1536
+        width: 84
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650294faf642044c0800000000000000
+      internalID: -4305401181665419178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_5
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1536
+        width: 81
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ae2762c4a9a2ff0800000000000000
+      internalID: -60065993162823067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_6
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1536
+        width: 88
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01476702cd64b9bd0800000000000000
+      internalID: -2622424446761798640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_7
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1536
+        width: 105
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9021c29f996175900800000000000000
+      internalID: 673031519881400841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_8
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1536
+        width: 104
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e2c8bb7fc5e6520800000000000000
+      internalID: 2697195445914709625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_9
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1152
+        width: 104
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990a84b5226174fb0800000000000000
+      internalID: -4663734552302673767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_10
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1152
+        width: 104
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334bf2499f98aeb30800000000000000
+      internalID: 4317414897814058035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_11
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1156
+        width: 104
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39041a36d8454320800000000000000
+      internalID: 2541517649655105853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_12
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1156
+        width: 105
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16041b8d534ccb6a0800000000000000
+      internalID: -6432050432244105119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_13
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1154
+        width: 103
+        height: 309
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e451a409d9116090800000000000000
+      internalID: -8043119039630715674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_14
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1154
+        width: 104
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b826ab5a8f30180800000000000000
+      internalID: -9150196627206403249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_15
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 768
+        width: 104
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea214980062d385b0800000000000000
+      internalID: -5367215020992884050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_16
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 768
+        width: 104
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750d42b112e386ea0800000000000000
+      internalID: -5879381001621942185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_17
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 769
+        width: 104
+        height: 309
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63faee9e3c151c780800000000000000
+      internalID: -8664554306198917322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_18
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 769
+        width: 104
+        height: 309
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02af335c5ba74f210800000000000000
+      internalID: 1365851508116290080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_19
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 769
+        width: 104
+        height: 309
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d566a0eecc18260800000000000000
+      internalID: 7098179810461375839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMGBIN_sprite-ice-animation-fizzy-drinks-png_hc7ytR8V (1)_20
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 769
+        width: 105
+        height: 309
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5290104581d0bef50800000000000000
+      internalID: 6911632451269888293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
